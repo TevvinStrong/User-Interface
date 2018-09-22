@@ -195,10 +195,13 @@ header {
   padding: 0;
 }
 
+<<<<<<< HEAD
 header .innovation {
   vertical-align: top;
 }
 
+=======
+>>>>>>> 443f15b293f2520f538d247c294ccc30160b7a58
 header .innovation h1 {
   font-size: 80px;
   display: inline-blockl;
@@ -257,7 +260,10 @@ header .get-started button {
   padding: 50px;
   margin-right: 10px;
   width: 50%;
+<<<<<<< HEAD
   padding-bottom: 30px;
+=======
+>>>>>>> 443f15b293f2520f538d247c294ccc30160b7a58
 }
 
 .contact {
